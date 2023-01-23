@@ -1,0 +1,2 @@
+obj\Debug\net6.0/Price.cs \
+obj\Debug\net6.0/PriceGrpc.cs: ../Auto.PricingServer/Protos/price.proto

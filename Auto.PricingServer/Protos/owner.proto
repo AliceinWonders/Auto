@@ -1,0 +1,25 @@
+syntax = "proto3";
+
+option csharp_namespace = "Auto.InfoOwner";
+
+package informer;
+
+// The greeting service definition.
+service Informer {
+  // Sends a greeting
+  rpc GetInfo (InfoRequest) returns (InfoReply);
+}
+
+// The request message containing the user's name.
+message InfoRequest {
+  string name = 1;
+  string surname = 2;
+  string email = 3;
+  string number = 4;
+}
+
+// The response message containing the greetings.
+message InfoReply {
+  sint32 income = 1;
+  sint32 age = 2;
+}

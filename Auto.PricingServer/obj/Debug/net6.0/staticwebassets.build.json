@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "KcNJ4txwISTO0yV2RT5isT37BqU2kkoAeOUles4gUdM=",
+  "Source": "Auto.PricingServer",
+  "BasePath": "_content/Auto.PricingServer",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

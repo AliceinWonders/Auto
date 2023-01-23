@@ -1,0 +1,2 @@
+obj\Debug\net6.0/Owner.cs \
+obj\Debug\net6.0/OwnerGrpc.cs: ../Auto.PricingServer/Protos/owner.proto

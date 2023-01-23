@@ -1,0 +1,28 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+    <PropertyGroup>
+        <OutputType>Exe</OutputType>
+        <TargetFramework>net6.0</TargetFramework>
+        <ImplicitUsings>enable</ImplicitUsings>
+        <Nullable>enable</Nullable>
+        <RootNamespace>Auto.PricingClient</RootNamespace>
+    </PropertyGroup>
+
+    <ItemGroup>
+      <PackageReference Include="EasyNetQ" Version="6.0.3" />
+      <PackageReference Include="Google.Protobuf" Version="3.21.9" />
+      <PackageReference Include="Grpc.Net.Client" Version="2.50.0" />
+      <PackageReference Include="Grpc.Tools" Version="2.50.0">
+        <PrivateAssets>all</PrivateAssets>
+        <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
+      </PackageReference>
+    </ItemGroup>
+
+    <ItemGroup><Protobuf Include="..\Auto.PricingServer\Protos\owner.proto" GrpcServices="Client" /></ItemGroup>
+    
+    <ItemGroup>
+      <ProjectReference Include="..\Auto.Messages\Auto.Messages.csproj" />
+      <ProjectReference Include="..\Auto.PricingServer\Auto.PricingServer.csproj" />
+    </ItemGroup>
+
+</Project>

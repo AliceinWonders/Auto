@@ -1,0 +1,2 @@
+obj\Debug\net6.0\Protos/Owner.cs \
+obj\Debug\net6.0\Protos/OwnerGrpc.cs: Protos/owner.proto
