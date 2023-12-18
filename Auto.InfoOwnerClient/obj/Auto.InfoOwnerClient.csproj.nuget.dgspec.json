@@ -1,26 +1,28 @@
 {
   "format": 1,
   "restore": {
-    "D:\\studing\\Загрузки\\Auto\\Auto.InfoOwnerClient\\Auto.InfoOwnerClient.csproj": {}
+    "C:\\Users\\User\\RiderProjects\\Auto\\Auto.InfoOwnerClient\\Auto.InfoOwnerClient.csproj": {}
   },
   "projects": {
-    "D:\\studing\\Загрузки\\Auto\\Auto.Data\\Auto.Data.csproj": {
+    "C:\\Users\\User\\RiderProjects\\Auto\\Auto.Data\\Auto.Data.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\studing\\Загрузки\\Auto\\Auto.Data\\Auto.Data.csproj",
+        "projectUniqueName": "C:\\Users\\User\\RiderProjects\\Auto\\Auto.Data\\Auto.Data.csproj",
         "projectName": "Auto.Data",
-        "projectPath": "D:\\studing\\Загрузки\\Auto\\Auto.Data\\Auto.Data.csproj",
+        "projectPath": "C:\\Users\\User\\RiderProjects\\Auto\\Auto.Data\\Auto.Data.csproj",
         "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-        "outputPath": "D:\\studing\\Загрузки\\Auto\\Auto.Data\\obj\\",
+        "outputPath": "C:\\Users\\User\\RiderProjects\\Auto\\Auto.Data\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net6"
         ],
         "sources": {
-          "https://api.nuget.org/v3/index.json": {}
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://nexus.am-intech.ru/repository/nuget-hosted/": {}
         },
         "frameworks": {
           "net6.0": {
@@ -121,7 +123,8 @@
             "net47",
             "net471",
             "net472",
-            "net48"
+            "net48",
+            "net481"
           ],
           "assetTargetFallback": true,
           "warn": true,
@@ -130,37 +133,39 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.302\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.202\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "D:\\studing\\Загрузки\\Auto\\Auto.InfoOwnerClient\\Auto.InfoOwnerClient.csproj": {
+    "C:\\Users\\User\\RiderProjects\\Auto\\Auto.InfoOwnerClient\\Auto.InfoOwnerClient.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\studing\\Загрузки\\Auto\\Auto.InfoOwnerClient\\Auto.InfoOwnerClient.csproj",
+        "projectUniqueName": "C:\\Users\\User\\RiderProjects\\Auto\\Auto.InfoOwnerClient\\Auto.InfoOwnerClient.csproj",
         "projectName": "Auto.InfoOwnerClient",
-        "projectPath": "D:\\studing\\Загрузки\\Auto\\Auto.InfoOwnerClient\\Auto.InfoOwnerClient.csproj",
+        "projectPath": "C:\\Users\\User\\RiderProjects\\Auto\\Auto.InfoOwnerClient\\Auto.InfoOwnerClient.csproj",
         "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-        "outputPath": "D:\\studing\\Загрузки\\Auto\\Auto.InfoOwnerClient\\obj\\",
+        "outputPath": "C:\\Users\\User\\RiderProjects\\Auto\\Auto.InfoOwnerClient\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net6.0"
         ],
         "sources": {
-          "https://api.nuget.org/v3/index.json": {}
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://nexus.am-intech.ru/repository/nuget-hosted/": {}
         },
         "frameworks": {
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "D:\\studing\\Загрузки\\Auto\\Auto.Messages\\Auto.Messages.csproj": {
-                "projectPath": "D:\\studing\\Загрузки\\Auto\\Auto.Messages\\Auto.Messages.csproj"
+              "C:\\Users\\User\\RiderProjects\\Auto\\Auto.Messages\\Auto.Messages.csproj": {
+                "projectPath": "C:\\Users\\User\\RiderProjects\\Auto\\Auto.Messages\\Auto.Messages.csproj"
               },
-              "D:\\studing\\Загрузки\\Auto\\Auto.PricingServer\\Auto.PricingServer.csproj": {
-                "projectPath": "D:\\studing\\Загрузки\\Auto\\Auto.PricingServer\\Auto.PricingServer.csproj"
+              "C:\\Users\\User\\RiderProjects\\Auto\\Auto.PricingServer\\Auto.PricingServer.csproj": {
+                "projectPath": "C:\\Users\\User\\RiderProjects\\Auto\\Auto.PricingServer\\Auto.PricingServer.csproj"
               }
             }
           }
@@ -200,7 +205,8 @@
             "net47",
             "net471",
             "net472",
-            "net48"
+            "net48",
+            "net481"
           ],
           "assetTargetFallback": true,
           "warn": true,
@@ -209,34 +215,36 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.302\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.202\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "D:\\studing\\Загрузки\\Auto\\Auto.Messages\\Auto.Messages.csproj": {
+    "C:\\Users\\User\\RiderProjects\\Auto\\Auto.Messages\\Auto.Messages.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\studing\\Загрузки\\Auto\\Auto.Messages\\Auto.Messages.csproj",
+        "projectUniqueName": "C:\\Users\\User\\RiderProjects\\Auto\\Auto.Messages\\Auto.Messages.csproj",
         "projectName": "Auto.Messages",
-        "projectPath": "D:\\studing\\Загрузки\\Auto\\Auto.Messages\\Auto.Messages.csproj",
+        "projectPath": "C:\\Users\\User\\RiderProjects\\Auto\\Auto.Messages\\Auto.Messages.csproj",
         "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-        "outputPath": "D:\\studing\\Загрузки\\Auto\\Auto.Messages\\obj\\",
+        "outputPath": "C:\\Users\\User\\RiderProjects\\Auto\\Auto.Messages\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net6.0"
         ],
         "sources": {
-          "https://api.nuget.org/v3/index.json": {}
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://nexus.am-intech.ru/repository/nuget-hosted/": {}
         },
         "frameworks": {
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "D:\\studing\\Загрузки\\Auto\\Auto.Data\\Auto.Data.csproj": {
-                "projectPath": "D:\\studing\\Загрузки\\Auto\\Auto.Data\\Auto.Data.csproj"
+              "C:\\Users\\User\\RiderProjects\\Auto\\Auto.Data\\Auto.Data.csproj": {
+                "projectPath": "C:\\Users\\User\\RiderProjects\\Auto\\Auto.Data\\Auto.Data.csproj"
               }
             }
           }
@@ -296,7 +304,8 @@
             "net47",
             "net471",
             "net472",
-            "net48"
+            "net48",
+            "net481"
           ],
           "assetTargetFallback": true,
           "warn": true,
@@ -305,27 +314,29 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.302\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.202\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "D:\\studing\\Загрузки\\Auto\\Auto.PricingServer\\Auto.PricingServer.csproj": {
+    "C:\\Users\\User\\RiderProjects\\Auto\\Auto.PricingServer\\Auto.PricingServer.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\studing\\Загрузки\\Auto\\Auto.PricingServer\\Auto.PricingServer.csproj",
+        "projectUniqueName": "C:\\Users\\User\\RiderProjects\\Auto\\Auto.PricingServer\\Auto.PricingServer.csproj",
         "projectName": "Auto.PricingServer",
-        "projectPath": "D:\\studing\\Загрузки\\Auto\\Auto.PricingServer\\Auto.PricingServer.csproj",
+        "projectPath": "C:\\Users\\User\\RiderProjects\\Auto\\Auto.PricingServer\\Auto.PricingServer.csproj",
         "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-        "outputPath": "D:\\studing\\Загрузки\\Auto\\Auto.PricingServer\\obj\\",
+        "outputPath": "C:\\Users\\User\\RiderProjects\\Auto\\Auto.PricingServer\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net6.0"
         ],
         "sources": {
-          "https://api.nuget.org/v3/index.json": {}
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://nexus.am-intech.ru/repository/nuget-hosted/": {}
         },
         "frameworks": {
           "net6.0": {
@@ -372,7 +383,8 @@
             "net47",
             "net471",
             "net472",
-            "net48"
+            "net48",
+            "net481"
           ],
           "assetTargetFallback": true,
           "warn": true,
@@ -384,7 +396,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.302\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.202\\RuntimeIdentifierGraph.json"
         }
       }
     }

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "b18R9XApVa8AHF7brTp64FxcRH2FnoIsp4K1d3imt1gfHsOnQ/N9Z2ws+pPs1EsKugbRc4AaFukXfNv0/szz/w==",
+  "dgSpecHash": "GSyeL8vxQOftpKXwlbezgpTNqRHfN4zgKQJn6MPdvxSSpdXFgaSNaF95fW6ruYVhyQCXzCV4HHaBEGu/0gDX5w==",
   "success": true,
-  "projectFilePath": "D:\\studing\\Загрузки\\Auto\\Auto.Messages\\Auto.Messages.csproj",
+  "projectFilePath": "C:\\Users\\User\\RiderProjects\\Auto\\Auto.Messages\\Auto.Messages.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\User\\.nuget\\packages\\castle.core\\4.4.1\\castle.core.4.4.1.nupkg.sha512",
     "C:\\Users\\User\\.nuget\\packages\\easynetq\\6.0.3\\easynetq.6.0.3.nupkg.sha512",

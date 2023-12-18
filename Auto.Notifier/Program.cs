@@ -9,7 +9,7 @@ using JsonSerializer = System.Text.Json.JsonSerializer;
 
 internal class Program
 {
-    private const string SIGNALR_HUB_URL = "http://localhost:5061/hub";
+    private const string SIGNALR_HUB_URL = "https://localhost:7061/hub";
     private static HubConnection hub;
 
     static async Task Main(string[] args)

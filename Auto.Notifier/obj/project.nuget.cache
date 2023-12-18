@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "yG3S6FMwgfz8RJM4tKCnAv+hL2zGsz6rkEX8FgqnaOzXo/oQ77NNwh78+gO5izvBm0cy2kk7SZ/fPI8FC78Qhg==",
+  "dgSpecHash": "KrDFkxtLDUBZcfzN62YF24P2O0HnxApUW/fRZhP5uAsuiq+237h0MB07hAW2sakpLKFPZeUO0V7PMml/tT3ERQ==",
   "success": true,
-  "projectFilePath": "D:\\studing\\Загрузки\\Auto\\Auto.Notifier\\Auto.Notifier.csproj",
+  "projectFilePath": "C:\\Users\\User\\RiderProjects\\Auto\\Auto.Notifier\\Auto.Notifier.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\User\\.nuget\\packages\\castle.core\\4.4.1\\castle.core.4.4.1.nupkg.sha512",
     "C:\\Users\\User\\.nuget\\packages\\easynetq\\6.0.3\\easynetq.6.0.3.nupkg.sha512",

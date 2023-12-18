@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "CdBOkGEoIp+ku/Tmgf6VDcssOCm3/Ar6fcBXfoFT+kUzsg6DsnJcLHKMdeuXLYLDtQts9GAIn82FfdEOecEa/w==",
+  "dgSpecHash": "UgUNB0vdKd1I5AYqeAcuJrUTl4YQY+vNC0A/K0D66ZsC2baXhS8WCB12rBW5k7DL4Y/f1OU8yxjAxGcdZj1fzA==",
   "success": true,
-  "projectFilePath": "D:\\studing\\Загрузки\\Auto\\Auto.View\\Auto.View.csproj",
+  "projectFilePath": "C:\\Users\\User\\RiderProjects\\Auto\\Auto.View\\Auto.View.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\User\\.nuget\\packages\\castle.core\\4.4.1\\castle.core.4.4.1.nupkg.sha512",
     "C:\\Users\\User\\.nuget\\packages\\easynetq\\6.0.3\\easynetq.6.0.3.nupkg.sha512",
